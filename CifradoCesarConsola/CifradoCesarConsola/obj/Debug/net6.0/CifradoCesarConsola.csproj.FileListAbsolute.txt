@@ -1,0 +1,15 @@
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\obj\Debug\net6.0\CifradoCesarConsola.csproj.AssemblyReference.cache
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\obj\Debug\net6.0\CifradoCesarConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\obj\Debug\net6.0\CifradoCesarConsola.AssemblyInfoInputs.cache
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\obj\Debug\net6.0\CifradoCesarConsola.AssemblyInfo.cs
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\obj\Debug\net6.0\CifradoCesarConsola.csproj.CoreCompileInputs.cache
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\bin\Debug\net6.0\CifradoCesarConsola.exe
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\bin\Debug\net6.0\CifradoCesarConsola.deps.json
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\bin\Debug\net6.0\CifradoCesarConsola.runtimeconfig.json
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\bin\Debug\net6.0\CifradoCesarConsola.dll
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\bin\Debug\net6.0\CifradoCesarConsola.pdb
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\obj\Debug\net6.0\CifradoCesarConsola.dll
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\obj\Debug\net6.0\refint\CifradoCesarConsola.dll
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\obj\Debug\net6.0\CifradoCesarConsola.pdb
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\obj\Debug\net6.0\CifradoCesarConsola.genruntimeconfig.cache
+C:\Users\pepei\source\repos\CifradoCesarConsola\CifradoCesarConsola\obj\Debug\net6.0\ref\CifradoCesarConsola.dll
